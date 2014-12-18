@@ -1,0 +1,4 @@
+bkVim
+=====
+
+Configuration for vim
